@@ -1,0 +1,122 @@
+html{
+    scroll-bechaviour:smooth;
+  }
+  
+  
+  body{
+    background-color:#A8D2EB;
+        margin:0 auto;
+      
+      }
+  
+  
+  
+      section{
+        width:100%;
+        height:auto;
+    
+      }
+      .gotopbtn{
+        position:fixed;
+        width:33px;
+        height:32px;
+        
+        border-radius:50px;
+        bottom:40px;
+        right:50px;
+        
+    
+      }
+  
+  
+  .navbar{
+    background-color:#2AB2E2;
+    padding: 1rem 8rem;
+      position:relative;
+      margin: 0;
+ 
+      
+      
+  }
+  #navbarSupportedContent > ul > li:nth-child(n) > a{
+  
+      color:white;
+      font-size: 17px;
+      padding: 8px 18px;
+      font-family:bold;
+      border:none
+  }
+  
+  #navbarSupportedContent > ul > li:nth-child(n) > a:hover{
+  color:#FBC932;
+  font-size:17px;
+  transition:0.6s all;
+  
+  }
+  #navbarSupportedContent > button{
+      
+      border-radius: 30px;
+      padding: 0.2rem 0.8rem;
+      font-weight: 600;
+  }
+  #navbarSupportedContent > form{
+  margin-top:8px;
+  
+  }
+  
+  
+   
+  
+  li{
+      color:#0457D1;
+      font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+      font-size:15px;
+  
+  }
+  
+  
+
+
+  
+  body > div > article > div:nth-child(2) > div:nth-child(2) > h5{
+      position: absolute;
+      width: 287px;
+      height: 25px;
+      z-index: 22;
+      background-color:#3B2795;
+      text-align:center;
+  
+      font-size: 15px;
+      color:white;
+      font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  }
+  
+
+  
+
+
+  #navbarSupportedContent > form > button{
+    float:right;
+    padding:5px;
+    margin-top:8px;
+    font-size:15px;
+    margin-right:6px;
+    border:none;
+    background-color:#1C74D3;
+    cursor:pointer;
+    transition:0.6s all;
+  }
+  #navbarSupportedContent > form > button:hover{
+    background-color:blue;
+    color:white;
+  
+  }
+  body > div > footer{
+    background-color:#2AB2E2;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  
+  }
+  #navbar-toggler button{
+    color: brown;
+    background-color: chocolate;
+  }
