@@ -36,7 +36,9 @@
 }
 .login-form-2{
     padding: 15%;
-    background: #0062cc;
+
+    background-color: #0062cc;
+
     box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
 }
 .login-form-2 h3{
@@ -114,31 +116,6 @@ include "aheader.php";
 		include "footer.php";
 		?>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	  
-
-		
 
         <!-- Optional JavaScript; choose one of the two! -->
 
