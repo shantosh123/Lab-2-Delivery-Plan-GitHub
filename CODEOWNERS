@@ -1,0 +1,42 @@
+####################################################
+##########    OUR TEAMS CODE OWNERS  ###############
+####################################################
+
+# This is a comment.
+# Each line is a file pattern followed by one or more owners.
+
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# @shantosh.kshetri@student.hamk.fi and @oluwole.osinubi@student.hamk.fi will be requested for
+# review when someone opens a pull request.
+*       @shantosh.kshetri@student.hamk.fi @oluwole.osinubi@student.hamk.fi
+
+# Order is important; the last matching pattern takes the most
+# precedence. When someone opens a pull request that only
+# modifies JS files, only @shiva.acharya@student.hamk.fi and not the global
+# owner(s) will be requested for a review.
+*.js    @shiva.acharya@student.hamk.fi
+
+# Order is important; the last matching pattern takes the most
+# precedence. When someone opens a pull request that only
+# modifies HTML files, only @oluwole.osinubi@student.hamk.fi and not the global
+# owner(s) will be requested for a review.
+*.html    @oluwole.osinubi@student.hamk.fi
+
+# Order is important; the last matching pattern takes the most
+# precedence. When someone opens a pull request that only
+# modifies PHP files, only @blankson.robert.rb@gmail.com and not the global
+# owner(s) will be requested for a review.
+*.php    @blankson.robert.rb@gmail.com
+
+# Order is important; the last matching pattern takes the most
+# precedence. When someone opens a pull request that only
+# modifies YAML files, only @shantosh.kshetri@student.hamk.fi and not the global
+# owner(s) will be requested for a review.
+*.yaml    @shantosh.kshetri@student.hamk.fi
+
+# Order is important; the last matching pattern takes the most
+# precedence. When someone opens a pull request that only
+# modifies TXT files, only @blankson.robert.rb@gmail.com and not the global
+# owner(s) will be requested for a review.
+*.txt    @blankson.robert.rb@gmail.com
