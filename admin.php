@@ -27,7 +27,7 @@ body {
     text-decoration: none;
     font-weight: 400;
   }
-  
+  new style addedddddd....
   h2 {
     text-align: center;
     font-size: 16px;
